@@ -21,6 +21,12 @@ SK Networks Family AI Camp 13기에서의 프로젝트와 해커톤, 개인 AI �
 | 4차 | [**지금, 서울**](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN13-4th-1TEAM) | 서울시 열린데이터 기반 시민 맞춤형 챗봇 | Django, LangChain, LangGraph, AWS |
 | 최종 | [**CLIKCA**](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN13-FINAL-1TEAM) | RAG 기반 업무 보조 AI 비서 시스템 | FastAPI, LangGraph, Docker, AWS |
 
+### 🏆 Hackathon
+
+| 대회 | 프로젝트 | 설명 | 수상 |
+|:---:|:---|:---|:---|
+| 7회 K-디지털 트레이닝 | [**고향으로 ON**](https://github.com/NGGW519/7th-kDT-HACKATHON) | RAG 기반 AI 정착 코디네이터 — 귀향 장년층 정착 지원 플랫폼 | 고용노동부 장관상 |
+
 ### 📂 Organization Repositories
 
 | 프로젝트 | 설명 | 기술 |
@@ -28,7 +34,6 @@ SK Networks Family AI Camp 13기에서의 프로젝트와 해커톤, 개인 AI �
 | **mySKN13_ws** | 부트캠프 학습 내용 정리 | Python, ML/DL, NLP, LangChain |
 | **SQLAI** | Gemini API 기반 MySQL 매니저 | Python, Gemini API, PyQt |
 | **TravelNarae** | 문화유산 여행 코스 추천 AI 챗봇 *(3.5차 — 원래 4차 주제였으나 주제 변경으로 별도 진행)* | LangGraph, ChromaDB, 다중 API 통합 |
-| **7th-kDT-HACKATHON** | 지역 문화 활성화를 위한 AI 미션 추천 플랫폼 | Django, PostgreSQL, RAG, ChromaDB |
 
 ## About
 
